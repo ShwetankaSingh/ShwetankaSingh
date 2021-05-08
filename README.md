@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ShwetankaSingh
+- 👋 Hi, I’m Shwetanka Singh currently working as a software engineer in Capgemini
 - 👀 I’m interested in Coding
-- 💻 I’m a Software Engineer
 - 📫 https://www.linkedin.com/in/shwetanka-singh-b50888175/
 
 <!---
