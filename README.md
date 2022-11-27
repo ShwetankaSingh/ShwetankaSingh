@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shwetanka Singh currently working as a software engineer in Capgemini
+- 👋 Hi, I’m Shwetanka Singh currently working as a software engineer at Deloitte USI
 - 👀 I’m interested in Coding
 - 📫 https://www.linkedin.com/in/shwetanka-singh-b50888175/
 
