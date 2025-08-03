@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Shwetanka Singh currently working as a software engineer at Deloitte USI
-- 👀 I’m interested in Coding
+- 👋 Hi, I’m Shwetanka Singh currently working as a software engineer at Cyberark. I have total 4+ years of experience and previously I worked in Deloitte USI and Capgemini.
+- 👀 I’m interested in solving problems.
 - 📫 https://www.linkedin.com/in/shwetanka-singh-b50888175/
 
 <!---
